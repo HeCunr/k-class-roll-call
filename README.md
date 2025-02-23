@@ -2,6 +2,7 @@
 
 ## Project Overview
 A classroom roll call system that supports both random and sequential student number calling modes.
+![7](https://github.com/user-attachments/assets/d783dc87-636d-4403-a14a-5a9cf6837dda)
 
 ## Basic Requirements
 
@@ -20,6 +21,7 @@ A classroom roll call system that supports both random and sequential student nu
   - Unable to repeat the question: -1 point
   - Correctly answering questions: +0.5 to +3 points based on performance
 - Higher total score leads to lower probability of being randomly selected
+![8](https://github.com/user-attachments/assets/d8e7fcc4-707a-4f2b-8e4c-927be8ff0304)
 
 ## Technical Stack
 
@@ -71,6 +73,7 @@ A classroom roll call system that supports both random and sequential student nu
 └─util          -- Utilities
     └─cache     -- Cache utilities
 ```
+![4](https://github.com/user-attachments/assets/f1bba465-002a-49d1-8446-25cf23e1565a)
 
 ## Key Features
 
@@ -91,9 +94,11 @@ A classroom roll call system that supports both random and sequential student nu
 
 ## Testing
 - Comprehensive interface testing using JUnit
+- ![5](https://github.com/user-attachments/assets/7c6e2cbe-2c66-48f5-bad8-da4c532dfd0e)
 - Mock testing for service layer
 - Performance testing using JProfiler
 - HTTP request testing for API endpoints
+![6](https://github.com/user-attachments/assets/f3e730e8-6a8a-439f-8434-c097e3903fb9)
 
 ## Development Tools
 - MasterGo for UI/UX design
